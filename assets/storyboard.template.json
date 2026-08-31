@@ -1,0 +1,32 @@
+{
+  "title": "",
+  "slug": "",
+  "source_library": "",
+  "aspect_ratio": "16:9",
+  "total_duration_s": 0,
+  "cast": [],
+  "scenes": [
+    { "id": "S1", "name": "", "location_desc": "", "shots": ["01", "02"] }
+  ],
+  "shots": [
+    {
+      "id": "01",
+      "scene": "S1",
+      "duration_s": 6,
+      "mode": "I2VA",
+      "shot_size": "全",
+      "camera": "缓推",
+      "frame": "画面内容：主体+动作相位+环境（冻结瞬间描述）",
+      "dialogue": [],
+      "sound": "环境声/音效/音乐线索",
+      "anchor_in": "（首镜可空；后续镜头写明承接上一镜的位置/动作/光源）",
+      "anchor_out": "预留给下一镜的衔接点",
+      "first_frame": "refs/shot_01_first.png",
+      "last_frame": null,
+      "char_refs": [],
+      "prompt_file": "prompts/shot_01.md",
+      "clip_file": "clips/shot_01.mp4",
+      "status": "draft"
+    }
+  ]
+}
